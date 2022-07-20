@@ -1,3 +1,9 @@
 .page{
   display:flex;
 }
+
+.menu{
+  width: 636px;
+  height: 150px;
+  color: #020;
+}
